@@ -6,12 +6,12 @@ Welcome to **Virtual-dev**, our first group project!
 **Institution:** NIT Kurukshetra  
 **Branch:** Microelectronics and VLSI  
 
-* Raushani
+* Raushan
 * Ajay
 * Sameer
 * Om
 * Aarsh
-* Vaivabh
+* Vaibhav
 * Tanish
 
 ## 💻 Tech Stack
