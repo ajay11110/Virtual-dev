@@ -6,7 +6,7 @@ Welcome to **Virtual-dev**, our first group project!
 **Institution:** NIT Kurukshetra  
 **Branch:** Microelectronics and VLSI  
 
-* Raushan
+* Raushani
 * Ajay
 * Sameer
 * Om
